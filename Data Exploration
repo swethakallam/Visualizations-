@@ -1,1 +1,49 @@
 
+Dataset 
+
+This is a dataset containing records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. It has 2,60,760 rows and 17 columns.
+
+The fields include- 
+Incident_number
+Offense_code
+Offensecodegroup
+Offense_description
+District
+Reporting_area
+Shooting
+Occurredondate
+Year
+Month
+Dayofweek
+Hour
+Ucr_part
+Street
+Latitude
+Longitude
+Location
+
+I choose this dataset as it relied mostly on data exploration and since data visualization is the main goal here. I could directly jump into it, without worrying about data cleaning of the transformation part.
+ 
+Problem Statement 
+
+Primary Question – 
+•	When did maximum number of crimes in Boston took place?
+
+Follow up Questions- 
+•	What are the most committed crimes?
+•	What time of year does most crimes happen?
+•	How has crime changed over the years?
+•	In which area most crimes are committed?
+Visualizations 
+I did all my visualizations on Tableau, which I would be attaching along this pdf. I am presenting you a story board on tableau along with description of each visualization.
+
+Conclusions
+
+•	Maximum number of crimes were observed during years 2016 & 2017.
+•	Crime rates have dropped during winter.
+•	Motor vehicle accident response tops the list.
+•	There is decrease in crime rate during winter months.
+•	Crime rates drop from 1 AM to 6 AM.
+•	District B2 has highest crime rate.
+•	This trend remained throughout the years.
+
